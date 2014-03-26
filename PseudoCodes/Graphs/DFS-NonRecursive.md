@@ -11,6 +11,5 @@ Depth First Search - Recursive Version
 6            if v is not labeled as discovered:
 7                label v as discovered
 8                for all edges from v to w in G.adjacentEdges(v) do
-9                    S.push(w) 
-              
+9                    S.push(w)            
 ```
